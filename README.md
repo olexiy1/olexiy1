@@ -22,12 +22,10 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 [instagram]: https://www.instagram.com/oleksiylaziuta/
 [telegram]: https://telegram.me/juglr
 
-
+<br />
 
 
 <summary>:zap: Statistics:</summary>
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=olexiy1&langs_count=8&layout=compact"/>
-<br />
-<br />
 <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=olexiy1&show_icons=true" />
 
