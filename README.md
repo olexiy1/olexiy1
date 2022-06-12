@@ -20,4 +20,4 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 
 [instagram]: https://www.instagram.com/oleksiylaziuta/
-[telegram]: 
+[telegram]: https://telegram.me/juglr
