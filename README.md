@@ -1,4 +1,4 @@
-### Greatings 👋
+### Greetings 👋
 
 ![](https://komarev.com/ghpvc/?username=olexiy1)
 
