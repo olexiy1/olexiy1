@@ -16,7 +16,7 @@ src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350
 <img align="left" alt="JavaScript" width="26px"         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt=".NET" width="26px" 
 src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dotnet/dotnet.png" />
-<img img align=" alt="unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg"/>
+<img align="left" alt="Unity" width="26px" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 
 [instagram]: https://www.instagram.com/oleksiylaziuta/
 [telegram]: 
